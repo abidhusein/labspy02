@@ -8,11 +8,11 @@
 4. b > a dan b > c maka lebih besar b
 5. jika di program diatasm salah lebih besar c
 
-<p> - flowchart </p>
+- flowchart </p>
 
 ![img 1](screenshot/f1.png)
 
-<p> - Kodingan atau kondisi </p>
+- Kodingan atau kondisi </p>
 
 ![img 2](screenshot/1.png)
 
